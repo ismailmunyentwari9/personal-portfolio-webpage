@@ -1,0 +1,17 @@
+h1{
+    color:#6557;
+
+}
+a{
+    font-size:8rem;
+}
+
+@media screen and (min-width: 680px) {
+body {
+background-color: lightgreen;
+}
+}
+nav{
+position:fixed;
+top:0px;
+}
